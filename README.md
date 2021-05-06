@@ -23,6 +23,8 @@ Voordat je de boekenlijst toont maak je enkele aanpassingen aan de data. Je moet
 Wanneer de data nog aan het laden is, toon je een loading message. Wanneer de ingegeven auteur geen boeken heeft toon je de volgende error message: 
 `"No books for author AUTEUR_NAAM"`
 
+> :warning: **Deze oefening staat niet op punten; maar voor jullie inzicht alsnog een mogelijke puntenverdeling
+
 
 ## Criteria
 
